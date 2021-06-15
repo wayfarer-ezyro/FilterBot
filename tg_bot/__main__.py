@@ -19,9 +19,9 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-Hello {},/n/nI’m {}!. 
+Hello {},
 
-I'm Filter Manager Bot Maintained By [{}](https://t.me/{}). 
+I’m {}, a Filter Bot created & maintained by [{}](https://t.me/{}). 
 
 """
 
